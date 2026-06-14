@@ -1,0 +1,6 @@
+{
+  "name": "BHU PG Admission Portal",
+  "description": "PG Admission Combined Allotment Program (CAP-PG) 2026-27 for Banaras Hindu University",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
